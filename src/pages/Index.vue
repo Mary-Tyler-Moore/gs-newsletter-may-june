@@ -63,12 +63,12 @@ export default {
     });
   },
   data() {
-    let baseUrl = "https://walktheboro.com//statics/images";
+    let baseUrl = "https://walktheboro.com/statics/images";
     let imageURLs = [null];
     let highResImageURLs = [null];
     for (let i = 0; i < 40; i++) {
       imageURLs.push(`${baseUrl}/${i + 1}.jpg`);
-      highResImageURLs.push(`https://walktheboro.com//statics/large-images/${i + 1}.jpg`);
+      highResImageURLs.push(`https://walktheboro.com/statics/large-images/${i + 1}.jpg`);
     }
     return {
       imageURLs,
