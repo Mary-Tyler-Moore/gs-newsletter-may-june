@@ -1,8 +1,8 @@
 {
-  "name": "statesboro-walking-tour",
+  "name": "GS Newsletter Building Services",
   "version": "0.0.1",
-  "description": "Downtown Statesboro Historical and Architectural Walking Tour",
-  "productName": "Walk the Boro",
+  "description": "May - Junes Newsletter for Builing Services as Georgia Southern University",
+  "productName": "GS Newsletter | Building Services",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "Mary-Tyler-Moore",
