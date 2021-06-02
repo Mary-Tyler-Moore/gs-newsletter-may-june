@@ -8,8 +8,16 @@
     },
     "build_always": true,
     "__internal": {
-      "dev": {},
-      "build": {}
+      "dev": {
+        "spa": {
+          "iconHash": "8b2d29ff743901269489508fe43b1c1c"
+        }
+      },
+      "build": {
+        "spa": {
+          "iconHash": "8b2d29ff743901269489508fe43b1c1c"
+        }
+      }
     }
   }
 }
